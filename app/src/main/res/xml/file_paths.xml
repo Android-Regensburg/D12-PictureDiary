@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="picture_diary_names" path="Android/data/de.ur.mi.android.picturediary/files/Pictures" />
+</paths>
