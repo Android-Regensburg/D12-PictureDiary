@@ -1,2 +1,2 @@
-rootProject.name='HairDiary'
+rootProject.name='PictureDiary'
 include ':app'
